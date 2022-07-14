@@ -1,0 +1,22 @@
+/*
+	Identity by arathemes
+	arathemes.com | @muath_obeidat
+	Free for personal and commercial use under the CCA 3.0 license (arathemes.com/license)
+*/
+
+
+/* Basic */
+
+	body:after {
+		display: none;
+	}
+
+/* Main */
+
+	#main {
+		-moz-transform: none !important;
+		-webkit-transform: none !important;
+		-ms-transform: none !important;
+		transform: none !important;
+		opacity: 1 !important;
+	}
